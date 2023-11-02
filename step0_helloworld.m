@@ -17,4 +17,5 @@ Screen('DrawText',window,'Goodbye world',xCenter,yCenter,1);
 Screen('Flip',window)
 WaitSecs(2)
 Screen('CloseAll');
+%David: ¡Excelente! 
 
