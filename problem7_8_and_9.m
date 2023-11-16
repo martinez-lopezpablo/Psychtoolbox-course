@@ -59,7 +59,6 @@ greyColor = [0.5, 0.5, 0.5];
 %% Relevant positions
 xLeft = (screenWidth)*0.25;
 xRight = (screenWidth)*0.75;
-xPosition = [xLeft xRight];
 
 %% Random order
 % Half of the trials will present the square on the left and the circle on
